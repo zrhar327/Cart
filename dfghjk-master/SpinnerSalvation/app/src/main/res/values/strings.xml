@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SpinnerSalvation</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name = "numbers">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+
+    <string-array name = "numbers1">
+        <item>Random airline</item>
+        <item>Bad Budget</item>
+        <item>Bad Budget</item>
+        <item>Dog Abusers</item>
+        <item>Dog Abusers</item>
+        <item>Dog Abusers</item>
+        <item>Dog Abusers</item>
+        <item>Dog Abusers</item>
+        <item>Dog Abusers</item>
+        <item>Dog Abusers</item>
+        <item>Dog Abusers</item>
+        <item>Dog Abusers</item>
+        <item>Memes</item>
+    </string-array>
+
+</resources>
